@@ -11,3 +11,4 @@ Zawartość plików:
 2. projekt3.m - główna część projektu
 3. Gear.m - funkcja realizująca obliczanie równań różniczkowych metodą Geara
 4. Runge.m - funkcja realizująca obliczanie równań różniczkowych metodą Rungego-Kutty
+5. raport_zad_3_WB.pdf - raport ze zrealizowanego projektu
